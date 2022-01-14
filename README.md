@@ -1,7 +1,7 @@
 <h1 align="center">
   Hoàng Mạnh Tuấn
-  <p><font color="red" size="18px">Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn. 🤣</font></p>
 </h1>
+<p><font color="red" size="18px">Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn. 🤣</font></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-PHP-%23584771?style=flat-square&logo=php&logoColor=fffff" alt="hoangmanhtuan" />
