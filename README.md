@@ -1,6 +1,6 @@
 <h1 align="center">
   Hoàng Mạnh Tuấn
-  <p style="font-size:18px;">Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn. 🤣</p>
+  <font color="" size="18px">Hãy theo đuổi đam mê, thành công sẽ theo đuổi bạn. 🤣</b>
 </h1>
 
 <p align="center">
